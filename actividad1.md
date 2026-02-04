@@ -6,5 +6,5 @@
 2. 10110  
 22  
 
-![Solución](img/.img/pro-)  
+![Solucion](./img/pro-mgGZwWAX.jpeg)  
 
